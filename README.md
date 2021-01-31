@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#大家好，我叫谢朴风，来自福建泉州
+#我喜欢看电影
+
 <!--
 **xiepiaofeng/xiepiaofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
